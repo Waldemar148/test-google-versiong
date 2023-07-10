@@ -48,6 +48,31 @@ export default function Home() {
               </div>
               </div>
 
+              {/* image gallery */}
+              <div className="image-gallery">
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                <div className="image">
+                  <img src="https://picsum.photos/200/300" alt="" />
+                </div>
+                </div>
+
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
